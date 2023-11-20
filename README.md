@@ -22,3 +22,29 @@ This is a simple chat application built with Angular and Firebase. Users can joi
 - Angular CLI: Install Angular CLI globally using `npm install -g @angular/cli`.
 - Firebase Account: Set up a Firebase project and obtain your Firebase configuration.
 
+### Installation
+
+1. Clone the repository:
+
+   ```bash```
+   git clone https://github.com/yourusername/angular-chat-app.git
+   cd ChatCraft
+   ```
+
+2.Install dependencies:
+
+  ```bash
+  npm install
+  ```
+
+3. Set up Firebase
+
+4. Run the application
+  ```bash
+  ng serve
+  ```
+
+5. Open your browser and navigate to http://localhost:4200/.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
