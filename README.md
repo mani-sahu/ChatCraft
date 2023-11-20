@@ -27,7 +27,7 @@ This is a simple chat application built with Angular and Firebase. Users can joi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/angular-chat-app.git
+   git clone https://github.com/mani-sahu/ChatCraft.git
    cd ChatCraft
    ```
 
